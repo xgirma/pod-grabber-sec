@@ -22,3 +22,7 @@ yarn-error.log*
 
 .idea/
 *.snap
+
+npm-debug.log
+.DS_Store
+/*.env
