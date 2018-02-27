@@ -18,7 +18,6 @@ const podcsts = {
 	hackerpublicradio: "http://hackerpublicradio.org/hpr_rss.php",
 	opensourceecuritypodcast: "http://opensourcesecuritypodcast.libsyn.com/rss",
 	sharedsecurity: "https://sharedsecurity.net/feed/",
-	sansstorm : "https://isc.sans.edu/dailypodcast.xml",
 	thecyberwire: "http://thecyberwire.libsyn.com/rss",
 	socialengineer: "http://socialengineer.libsyn.com/rss",
 	developsec: "http://podcast.developsec.com/rss",
@@ -42,7 +41,6 @@ var brakeingsecurity = cron.schedule('* * * * *', function(){addPodcast(podcsts.
 var hackerpublicradio = cron.schedule('* * * * *', function(){addPodcast(podcsts.hackerpublicradio);}, false);
 var opensourceecuritypodcast = cron.schedule('* * * * *', function(){addPodcast(podcsts.opensourceecuritypodcast);}, false);
 var sharedsecurity = cron.schedule('* * * * *', function(){addPodcast(podcsts.sharedsecurity);}, false);
-var sansstorm = cron.schedule('* * * * *', function(){addPodcast(podcsts.sansstorm);}, false);
 var thecyberwire = cron.schedule('* * * * *', function(){addPodcast(podcsts.thecyberwire);}, false);
 var socialengineer = cron.schedule('* * * * *', function(){addPodcast(podcsts.socialengineer);}, false);
 var developsec = cron.schedule('* * * * *', function(){addPodcast(podcsts.developsec);}, false);
@@ -78,7 +76,6 @@ brakeingsecurity.start();
 hackerpublicradio.start();
 opensourceecuritypodcast.start();
 sharedsecurity.start();
-sansstorm.start();
 socialengineer.start();
 thecyberwire.start();
 developsec.start();
