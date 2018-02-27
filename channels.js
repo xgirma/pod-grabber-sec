@@ -1,6 +1,6 @@
 const cron = require('node-cron');
 const request = require('request');
-const baseUrl = 'https://whirlpood.herokuapp.com/api/pods';
+const baseUrl = 'https://whirlpood.herokuapp.com/api/channels';
 
 const podcsts = {
 	cryptogram: "http://dhenage.libsyn.com/rss",
