@@ -1,3 +1,3 @@
 #!/usr/bin/env node
 
-node ../cron.js
+node cron.js
