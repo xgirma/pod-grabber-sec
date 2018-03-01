@@ -2,9 +2,26 @@
 
 Grabs security podcasts and post them to db.
 
+# Heroku setup
 
+docs: 
 
-5 4 * * sun echo "run at 5"
+https://devcenter.heroku.com/articles/scheduler
 
+http://www.spacjer.com/blog/2014/02/10/defining-node-dot-js-task-for-heroku-scheduler/
 
-# Tasks
+Steps:
+
+    $ heroku login
+    $ heroku addons:create scheduler:standard
+    $ creat bin/cron.js
+    $ git push heroku master
+    $ heroku run cron.js
+    
+    open heroku.com
+    open warm-bastion-21302
+    dashboard -> Installed add-ons -> Heroku Scheduler
+    add a new job
+    
+    
+Abc ...
