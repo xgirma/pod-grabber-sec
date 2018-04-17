@@ -1,0 +1,110 @@
+[
+  {
+    "feed": "https://feeds.feedwrench.com/AdventuresInAngularOnly.rss",
+  },
+  {
+    "feed": "https://feeds.feedwrench.com/AdventuresInAngular.rss",
+  },
+  {
+    "feed": "https://blog.codepen.io/feed/podcast/",
+  },
+  {
+    "feed": "http://codingblocks.libsyn.com/rss",
+  },
+  {
+    "feed": "https://rss.simplecast.com/podcasts/279/rss",
+  },
+  {
+    "feed": "https://rss.simplecast.com/podcasts/2601/rss",
+  },
+  {
+    "feed": "https://changelog.com/jsparty/feed", // ***
+  },
+  {
+    "feed": "https://feeds.feedwrench.com/js-jabber.rss",
+  },
+  {
+    "feed": "http://www.jsclasses.org/blog/category/podcast/post/latest.rss",
+  },
+  {
+    "feed": "https://modernweb.podbean.com/feed/",
+  },
+  {
+    "feed": "https://feeds.feedwrench.com/my-js-story.rss",
+  },
+  {
+    "feed": "https://rss.simplecast.com/podcasts/3903/rss",
+  },
+  {
+    "feed": "http://feeds.feedburner.com/nodeup",
+  },
+  {
+    "feed": "https://rss.simplecast.com/podcasts/1232/rss",
+  },
+  {
+    "feed": "https://anchor.fm/s/2af0940/podcast/rss",
+  },
+  {
+    "feed": "https://rss.simplecast.com/podcasts/1108/rss",
+  },
+  {
+    "feed": "https://changelog.com/spotlight/feed",
+  },
+  {
+    "feed": "https://feed.syntax.fm/rss",
+  },
+  {
+    "feed": "https://rss.simplecast.com/podcasts/3216/rss",
+  },
+  {
+    "feed": "http://feeds.5by5.tv/bigwebshow",
+  },
+  {
+    "feed": "https://rss.simplecast.com/podcasts/282/rss",
+  },
+  {
+    "feed": "https://changelog.com/podcast/feed",
+  },
+  {
+    "feed": "http://podcast.crater.io/feed/",
+  },
+  {
+    "feed": "https://rss.simplecast.com/podcasts/3516/rss",
+  },
+  {
+    "feed": "https://vuenews.fireside.fm/rss",
+  },
+  {
+    "feed": "https://rss.simplecast.com/podcasts/1103/rss",
+  },
+  {
+    "feed": "http://www.spreaker.com/show/2824367/episodes/feed",
+  },
+  {
+    "feed": "https://tylermcginnis.libsyn.com/rss",
+  },
+  {
+    "feed": "http://feeds.5by5.tv/webahead/",
+  },
+  {
+    "feed": "http://thewebplatform.libsyn.com/rss",
+  },
+  {
+    "feed": "http://threedevsandamaybe.com/podcast.xml",
+  },
+  {
+    "feed": "https://rss.simplecast.com/podcasts/4211/rss",
+  },
+  {
+    "feed": "https://audioboom.com/channels/4947372.rss",
+  },
+  {
+    "feed": "http://a.webdevbreak.com/episodes",
+  },
+  {
+    "feed": "https://www.orbit.fm/weboftomorrow/feed.rss",
+  },
+  {
+    "feed": "https://rss.simplecast.com/podcasts/3762/rss",
+  }
+]
