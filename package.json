@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/xgirma/pod-grabber-sec#readme",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "node-cron": "^1.2.1",
     "request": "^2.83.0"
   }
